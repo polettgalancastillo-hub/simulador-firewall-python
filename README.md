@@ -7,4 +7,4 @@ Clona este repositorio o descarga el archivo fuente:
 bash
 
 
-git clone https://github.com/TU-USUARIO/simulador-firewall-python.git
+git clone https://github.com/polettgalancastillo-hub/simulador-firewall-python.git
